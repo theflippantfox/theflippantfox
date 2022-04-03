@@ -18,7 +18,7 @@
 
 ![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
-![Postgres](https://img.shields.io/badge/-Postgres-141a20?style=flat&logo=postgres)
+![Postgres](https://img.shields.io/badge/-Postgres-141a20?style=flat&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
