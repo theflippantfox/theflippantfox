@@ -28,4 +28,4 @@
 
 ### 📫 Contact Me
 [![protonmail](https://img.shields.io/badge/-razor169@protonmail.com-141a20?style=flat&logo=protonmail)](mailto:razor169@protonmail.com)
-[![telegram](https://img.shields.io/badge/-razor169-141a20?style=flat&logo=telegram&logoColor=white)](https://t.me/@razor169)
+[![telegram](https://img.shields.io/badge/-razor169-141a20?style=flat&logo=telegram&logoColor=white)](https://telegram.me/@razor169)
