@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @razor169
+### 👋 Hi, I'm razor169
+
 - 👀 I’m interested in web development specially in js
 - 🌱 I’m currently learning rust and nodejs
 
