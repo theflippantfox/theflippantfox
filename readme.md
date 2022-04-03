@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning rust and nodejs
 
 ### 🛠 Tech Stack
-![Arch Linux(https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)]
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)
 ![Go](https://img.shields.io/badge/-Golang-141a20?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat&logo=rust)
 ![Bash](https://img.shields.io/badge/-Bash%20Script-141a20?style=flat&logo=powershell)
