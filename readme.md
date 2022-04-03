@@ -11,7 +11,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-141a20?style=flat&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=scss)
+![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=sass)
 ![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
