@@ -10,7 +10,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)
 ![Mariadb](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
 ![Mongodb](https://img.shields.io/badge/-Mongo-141a20?style=flat&logo=mongodb)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 - 📫 To contact me email me razor169@protonmail.com
