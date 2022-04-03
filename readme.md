@@ -4,6 +4,7 @@
 
 ### 🛠 Tech Stack
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)
+
 ![Go](https://img.shields.io/badge/-Golang-141a20?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat&logo=rust)
 ![Bash](https://img.shields.io/badge/-Bash%20Script-141a20?style=flat&logo=powershell)
@@ -12,8 +13,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=sass)
+
 ![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
+
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
