@@ -7,13 +7,13 @@
 ![Go](https://img.shields.io/badge/-Golang-141a20?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat&logo=rust)
 ![Bash](https://img.shields.io/badge/-Bash%20Script-141a20?style=flat&logo=powershell)
-![Nodejs](https://img.shields.io/badge/-Nodejs-141a20?style=flat&logo=nodejs)
+![Nodejs](https://img.shields.io/badge/-Nodejs-141a20?style=flat&logo=node)
 ![Typescript](https://img.shields.io/badge/-Typescript-141a20?style=flat&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=scss)
-![Mariadb](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
-![Mongodb](https://img.shields.io/badge/-Mongo-141a20?style=flat&logo=mongodb)
+![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb)
+![Mongodb](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
