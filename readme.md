@@ -9,6 +9,7 @@
 
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat&logo=rust&logoColor=CE412B)
+![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)
 ![Bash](https://img.shields.io/badge/-Bash%20Script-141a20?style=flat&logo=powershell)
 ![Nodejs](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=node.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-141a20?style=flat&logo=typescript)
