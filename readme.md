@@ -7,7 +7,7 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-![Go](https://img.shields.io/badge/-Golang-141a20?style=flat&logo=go)
+![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat&logo=rust&logoColor=CE412B)
 ![Bash](https://img.shields.io/badge/-Bash%20Script-141a20?style=flat&logo=powershell)
 ![Nodejs](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=node.js)
