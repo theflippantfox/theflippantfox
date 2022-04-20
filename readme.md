@@ -13,13 +13,13 @@
 ![Bash](https://img.shields.io/badge/-Bash%20Script-141a20?style=flat&logo=powershell)
 ![Nodejs](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=node.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-141a20?style=flat&logo=typescript)
-![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=sass)
+![HTML](https://img.shields.io/badge/-HTML5-141a20?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-141a20?style=flat&logo=CSS3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SASS-141a20?style=flat&logo=sass)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql&logoColor=E10098)
 ![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=mysql)
 
-![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb)
+![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb&logoColor=003545)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/-Postgres-141a20?style=flat&logo=postgresql)
 
