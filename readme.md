@@ -25,8 +25,8 @@
 
 
 ### ⚙️ Github Analytics
-![stats](https://github-readme-stats.vercel.app/api?username=razor169&theme=gotham&show_icons=true&border_color=2e3440)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razor169&layout=compact&exclude_repo=razor169.github.io&theme=gotham&border_color=2e3440&card_width=250)
+![stats](https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=gotham&show_icons=true&border_color=2e3440)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=gotham&border_color=2e3440&card_width=250)
 
 
 ### 📫 Contact Me
