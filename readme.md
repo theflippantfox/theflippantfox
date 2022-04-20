@@ -15,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=sass)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql)
+![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=sql)
 
 ![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
