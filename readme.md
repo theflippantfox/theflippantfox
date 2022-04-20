@@ -1,4 +1,4 @@
-### 👋 Hi, I'm razor169
+### 👋 Hi, I'm TheFlippantFox
 
 - 👀 I’m interested in web development specially in js
 - 🌱 I’m currently learning rust and nodejs
@@ -14,8 +14,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=sass)
-![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql)
-![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=sql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql&logoColor=E10098)
+![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=mysql)
 
 ![Mariadb](https://img.shields.io/badge/-MariaDB-141a20?style=flat&logo=mariadb)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
