@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning rust and nodejs
 
 ### 🛠 Tech Stack
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)
+![Arch Linux(https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)](https://archlinux.org/)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)
