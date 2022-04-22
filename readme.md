@@ -32,5 +32,5 @@
 
 
 ### 📫 Contact Me
-[![protonmail](https://img.shields.io/badge/-razor169@protonmail.com-141a20?style=flat&logo=protonmail)](mailto:theflippantfox@protonmail.com)
-[![telegram](https://img.shields.io/badge/-razor169-141a20?style=flat&logo=telegram&logoColor=white)](https://telegram.me/@theflippantfox)
+[![protonmail](https://img.shields.io/badge/-theflippantfox@protonmail.com-141a20?style=flat&logo=protonmail)](mailto:theflippantfox@protonmail.com)
+[![telegram](https://img.shields.io/badge/-theflippantfox-141a20?style=flat&logo=telegram&logoColor=white)](https://telegram.me/@theflippantfox)
