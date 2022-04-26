@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm TheFlippantFox
 
-- 👀 I’m interested in web development specially in js
-- 🌱 I’m currently learning rust and nodejs
+- 👀 I’m interested in web development specially in JavaScript
+- 🌱 I’m currently learning Rust and Go
 
 ### 🛠 Tech Stack
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)](https://archlinux.org/)
