@@ -11,6 +11,7 @@
 [![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
 [![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cpp)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/-Bash%20Script-141a20?style=flat&logo=powershell)](https://www.gnu.org/software/bash/)
 [![Nodejs](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=node.js)](https://nodejs.org/en/)
 [![Typescript](https://img.shields.io/badge/-Typescript-141a20?style=flat&logo=typescript)](https://www.typescriptlang.org/)
