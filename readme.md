@@ -6,7 +6,7 @@
 ### 🛠 Tech Stack
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)](https://archlinux.org/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![NVim](https://img.shields.io/badge/-NVim-141a20?style=flat&logo=neovim)](https://neovim.io/)
+[![NVim](https://img.shields.io/badge/-NeoVim-141a20?style=flat&logo=neovim)](https://neovim.io/)
 
 [![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat&logo=rust&logoColor=CE412B)](https://www.rust-lang.org/)
