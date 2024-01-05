@@ -1,19 +1,21 @@
-### 👋 Hi, I'm TheFlippantFox
+## 👋 Hi, I'm TheFlippantFox
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Rust and Go
 
-### 🛠 My Setup
+## 🛠 My Setup
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)](https://archlinux.org/)
 [![NVim](https://img.shields.io/badge/-NeoVim-141a20?style=flat&logo=neovim)](https://neovim.io/)
 [![Awesome](https://img.shields.io/badge/-Awesome-141a20?style=flat-square&logo=awesomewm)](https://awesomewm.org/)
 [![Tmux](https://img.shields.io/badge/-Tmux-141a20?style=flat-square&logo=tmux)](https://github.com/tmux/tmux/)
 
-### Languages I Use
+## Languages I Use
 [![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)](https://go.dev/)
+[![Rust(https://img.shields.io/badge/-Rust-141a20?style=flat-square&logo=rust&logoColor=orange)](https://www.rust-lang.org/)
 [![Bash](https://img.shields.io/badge/-Bash-141a20?style=flat&logo=powershell)](https://www.gnu.org/software/bash/)
-[![Lua](https://img.shields.io/badge/-Lua-141a20?style=flat&logo=lua&logoColor=white)](https://www.lua.org)
+[![Lua](https://img.shields.io/badge/-Lua-141a20?style=flat&logo=lua)](https://www.lua.org)
+[![C/C++](https://img.shields.io/badge/-Lua-141a20?style=flat&logo=lua&logoColor=white)](https://isocpp.org/)
 
-### Web Frontend
+### Frontend
 [![Typescript](https://img.shields.io/badge/-Typescript-141a20?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![HTML](https://img.shields.io/badge/-HTML5-141a20?style=flat&logo=HTML5)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/-CSS3-141a20?style=flat&logo=CSS3&logoColor=1572B6)](https://www.w3schools.com/css/)
