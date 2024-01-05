@@ -10,10 +10,10 @@
 
 ## Languages I Use
 [![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)](https://go.dev/)
-[![Rust(https://img.shields.io/badge/-Rust-141a20?style=flat-square&logo=rust&logoColor=orange)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/-Rust-141a20?style=flat-square&logo=rust&logoColor=orange)](https://www.rust-lang.org/)
 [![Bash](https://img.shields.io/badge/-Bash-141a20?style=flat&logo=powershell)](https://www.gnu.org/software/bash/)
 [![Lua](https://img.shields.io/badge/-Lua-141a20?style=flat&logo=lua)](https://www.lua.org)
-[![C/C++](https://img.shields.io/badge/-Lua-141a20?style=flat&logo=lua&logoColor=white)](https://isocpp.org/)
+[![C/C++](https://img.shields.io/badge/-C/C++-141a20?style=flat&logo=cpp&logoColor=white)](https://isocpp.org/)
 
 ### Frontend
 [![Typescript](https://img.shields.io/badge/-Typescript-141a20?style=flat&logo=typescript)](https://www.typescriptlang.org/)
