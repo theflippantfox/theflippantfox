@@ -5,7 +5,8 @@
 ### 🛠 My Setup
 [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)](https://archlinux.org/)
 [![NVim](https://img.shields.io/badge/-NeoVim-141a20?style=flat&logo=neovim)](https://neovim.io/)
-[![](https://img.shields.io/badge/-NeoVim-141a20?style=flat&logo=neovim)](https://neovim.io/)
+[![Awesome](https://img.shields.io/badge/-Awesome-141a20?style=flat-square&logo=awesomewm)](https://awesomewm.org/)
+[![Tmux](https://img.shields.io/badge/-Tmux-141a20?style=flat-square&logo=tmux)(https://github.com/tmux/tmux/)
 
 ### Languages I Use
 [![Go](https://img.shields.io/badge/-Go-141a20?style=flat&logo=go)](https://go.dev/)
