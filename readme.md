@@ -15,5 +15,5 @@ In the twilight hours, I am a mere mortal, crafting tools and utilities to aid m
 
 May the yokai of code whisper secrets in your ear. 🌀
 
-![stats](https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=gotham&show_icons=true&border_color=2e3440)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=gotham&border_color=2e3440&card_width=250)
+![stats](https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=gotham&hide_border=false&show_icons=true&border_color=2e3440)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=gotham&hide_border=false&border_color=2e3440&card_width=250)
