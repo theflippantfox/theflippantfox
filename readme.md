@@ -14,6 +14,7 @@ In the twilight hours, I am a mere mortal, crafting tools and utilities to aid m
 🌙 **Seeking fellow spirits and collaborators to join me on this haunted journey through the eerie forests of open-source development.**
 
 May the yokai of code whisper secrets in your ear. 🌀
-
-<img src="https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=dracula&hide_border=false&show_icons=true&border_color=2e3440">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=dracula&hide_border=false&border_color=2e3440&card_width=250">
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=dracula&hide_border=false&show_icons=true&border_color=2e3440" style="width:400px; height:200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=dracula&hide_border=false&border_color=2e3440&card_width=250" style="width:400px; height:200px;">
+</div>
