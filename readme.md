@@ -15,8 +15,8 @@ In the twilight hours, I am a mere mortal, crafting tools and utilities to aid m
 
 🎃 **Haunted Code Metrics:**
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=dracula&hide_border=false&show_icons=true&border_color=2e3440" style="height:200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=dracula&hide_border=false&border_color=2e3440" style="height:200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=dracula&hide_border=false&show_icons=true&border_color=2e3440" style="height:170px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=dracula&hide_border=false&border_color=2e3440" style="height:170px;">
 </div>
 
 May the yokai of code whisper secrets in your ear. 🌀
