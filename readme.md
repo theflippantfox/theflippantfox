@@ -1,7 +1,5 @@
-<div style="text-align: center; display:flex; justify-content:space-between;">
-    👹 **Code Yokai Summoner** 👹 
-    [![](https://visitcount.itsvg.in/api?id=theflippantfox&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+👹 **Code Yokai Summoner** 👹
+
 Welcome to my realm. I am a spectral coder, conjuring eldritch algorithms and weaving them into haunted applications. My journey is shadowed by the spirits of ancient yokai, guiding my hands as I traverse the darkened pathways of various eerie languages.
 
 In the twilight hours, I am a mere mortal, crafting tools and utilities to aid my fellow coders. But as night falls, I become a vessel for the supernatural, exploring the haunted intersection of technology and the otherworldly.
