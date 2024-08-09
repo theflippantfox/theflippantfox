@@ -14,3 +14,5 @@ In the twilight hours, I am a mere mortal, crafting tools and utilities to aid m
 🌙 **Seeking fellow spirits and collaborators to join me on this haunted journey through the eerie forests of open-source development.**
 
 May the yokai of code whisper secrets in your ear. 🌀
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=theflippantfox&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&hide=prs&theme=dark)
