@@ -1,20 +1,18 @@
-👹 Wanderer of Code Realms 👹
+### 👹 Code Yokai Summoner 👹
 
-こんにちは! I am a digital ronin, wandering the ethereal realms of code, summoning ancient algorithms and binding them into modern applications. My path is guided by the spirits of innovation and creativity, as I weave the threads of Go, Python, and other arcane languages into my projects.
+Welcome to my realm. I am a spectral coder, conjuring eldritch algorithms and weaving them into haunted applications. My journey is shadowed by the spirits of ancient yokai, guiding my hands as I traverse the darkened pathways of Go, Python, and other eerie languages.
 
-By day, I navigate the bustling world of software development, crafting tools and utilities to aid fellow coders. By night, I delve into the mysterious and mystical, exploring the intersection of technology and the supernatural.
+In the twilight hours, I am a mere mortal, crafting tools and utilities to aid my fellow coders. But as night falls, I become a vessel for the supernatural, exploring the haunted intersection of technology and the otherworldly.
 
-🔮 Skills & Incantations:
+#### 🔮 Dark Arts & Skills:
+- Go, Python, JavaScript
+- Enigmatic frameworks: React, Django, Echo
+- Sorcery with APIs and microservices
+- DevOps rituals: Docker, Kubernetes
 
-    Go, Python, JavaScript
-    Mystical frameworks: React, Django, Echo
-    Sorcery with APIs and microservices
-    DevOps rituals: Docker, Kubernetes
+#### 🍂 Current Haunting:
+- Crafting a spectral video downloader in Go with the `kkdai/youtube` package and `bubbletea` for an otherworldly user experience.
 
-🍂 Current Quest:
+🌙 Seeking fellow spirits and collaborators to join me on this haunted journey through the eerie forests of open-source development.
 
-    Crafting a video downloader in Go with the kkdai/youtube package and bubbletea for a seamless user experience.
-
-🌙 Seeking fellow adventurers and collaborators to join me on this journey through the enchanted forests of open-source development.
-
-May the spirits of code be ever in your favor. 🌀
+May the yokai of code whisper secrets in your ear. 🌀
