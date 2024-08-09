@@ -19,4 +19,5 @@ In the twilight hours, I am a mere mortal, crafting tools and utilities to aid m
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theflippantfox&layout=compact&exclude_repo=theflippantfox.github.io&theme=dracula&hide_border=false&border_color=2e3440" style="height:170px;">
 </div>
 
-May the yokai of code whisper secrets in your ear. 🌀
+
+**May the yokai of code whisper secrets in your ear. 🌀**
