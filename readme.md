@@ -13,8 +13,6 @@ In the twilight hours, I am a mere mortal, crafting tools and utilities to aid m
 🍂 **Current Haunting:**
 - Crafting a spectral video downloader in Go with the `kkdai/youtube` package and `bubbletea` for an otherworldly user experience.
 
-🌙 **Seeking fellow spirits and collaborators to join me on this haunted journey through the eerie forests of open-source development.**
-
 🎃 **Haunted Code Metrics:**
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=theflippantfox&theme=dracula&hide_border=false&show_icons=true&border_color=2e3440" style="height:170px;">
