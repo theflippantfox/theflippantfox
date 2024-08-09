@@ -1,3 +1,5 @@
+![](https://github.com/theflippantfox/theflippantfox/blob/main/anime-fox-girl_1596921403.jpg)
+
 👹 **Code Yokai Summoner** 👹
 
 Welcome to my realm. I am a spectral coder, conjuring eldritch algorithms and weaving them into haunted applications. My journey is shadowed by the spirits of ancient yokai, guiding my hands as I traverse the darkened pathways of various eerie languages.
